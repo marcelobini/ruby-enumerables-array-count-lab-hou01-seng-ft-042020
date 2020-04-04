@@ -3,7 +3,7 @@ def count_strings(array)
   index = 0
   while index < array.count do
     if array [index]is.String?
-      
+
   end
 
 
