@@ -5,8 +5,8 @@ def count_strings(array)
     if array [index].str
       
   end
-  
-    
+
+
   end
 end
 
