@@ -3,8 +3,9 @@ def count_strings(array)
   index = 0
   while index < array.count do
     if array[index].str?
-
-  end
+   end
+ end
+end
 
 
   end
